@@ -17,8 +17,8 @@ body
 }
 .sectionText
 {
-	height:500px;
-	width:1200px;
+	height:80%;
+	width:90%;
 	text-align:center;
 	display: flex;
 	flex-direction: column;
@@ -41,7 +41,7 @@ body
 {
 	text-decoration:none;
 	width:300px;
-	margin-left:450px;
+	margin-left:35%;
 	border:2px solid white;
 	padding:10px;
 	border-radius:20px;
